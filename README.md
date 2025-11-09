@@ -2,6 +2,7 @@
 Kelompok 31 VIP Web Dev &amp; UI/UX Designer | VINIX7
 
 Ketua: Aisyaaliy Prianto
+
 Anggota:
 1. Akhmad Fadillah Hamsa
 2. Salsa Nabila Putri
